@@ -1,17 +1,17 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "YASIN";
+var website_name = NOVA VIBE TOP-UP
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = @NOVAVIBETOPUP00
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = https://t.me/NOVAVIBETOPUP
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
@@ -21,6 +21,4 @@ var youtube_channel_link = "YouTube channel link";
 // =======================================================
 // NOTIFICATION TEXT
 // =======================================================
-var notification_text = `সবথেকে কম দামে টপ করার জন্য সেরা ওয়েবসাইট
-১০০% বিশ্বস্ত ও দ্রুত ডেলিভারিতে
-অর্ডার করুন নিশ্চিন্তে ♥️`;
+var notification_text = "স্বাগতম NOVA VIBE TOP-UP-এ! 🎮 সেরা দামে গেম টপ-আপ, দ্রুত ডেলিভারি এবং বিশ্বস্ত সার্ভিস পেতে এখনই অর্ডার করুন। আপনার গেমিং, আমাদের দায়িত্ব! ❤️";
